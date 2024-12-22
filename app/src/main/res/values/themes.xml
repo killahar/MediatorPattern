@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MediatorPattern" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#FBE5E3</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#FFCCBC</item>
+    </style>
+</resources>

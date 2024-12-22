@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediatorPattern</string>
+    <string name="prompt_select_sender">Выберите отправителя</string>
+    <string name="prompt_select_recipient">Выберите получателя (или оставьте пустым для всех)</string>
+</resources>
